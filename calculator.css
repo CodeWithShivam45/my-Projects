@@ -1,0 +1,55 @@
+body{
+    background-image: linear-gradient(180deg,grey,grey);
+}
+h1{
+    text-align: center;
+    color: black;
+    text-decoration: underline;
+}
+.container{
+    height: 30rem;
+    width: 23rem;
+    border: 1px solid black transparent;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 1px 1px 120px white;
+
+}
+
+table{
+    margin: auto;
+}
+
+button{
+    font-weight:500;
+    font-size: 20px;
+    padding: 15px;
+    margin: 8px 20px;
+    cursor: pointer;
+    border-radius: 20%;
+    color:aquamarine;
+    background-color:black;
+
+}
+.value{
+    height: 5rem;
+    border: 1px solid black transparent;
+
+}
+button:hover{
+    color: white;
+    opacity: 0.8;
+}
+input{
+    width: 20rem;
+    height: 3rem;
+    margin: 5px;
+    padding: 9px;
+    font-weight: 700;
+    font-size: 30px;
+    border-radius: 15px;
+    border: transparent;
+    font-style: italic;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
