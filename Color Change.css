@@ -1,0 +1,59 @@
+h1{
+    text-align: center;
+}
+ul li{
+    list-style-type: none;
+    margin: 15px;
+    
+}
+button{
+    height: 2.3rem;
+    width: 5rem;
+    cursor: pointer;
+    border-radius: 10px;
+    border: 1px solid black;
+    font-weight: 800;
+    transition: 0.5s;
+}
+button:hover{
+    
+    transform:scale(1.2); 
+}
+ul{
+    display: flex;
+}
+#white{
+    background-color: white;
+}
+#red{
+    background-color: red;
+    color: white;
+}
+#green{
+    background-color: green;
+    color: white;
+}
+#blue{
+    background-color: blue;
+    color: white;
+}
+#yellow{
+    background-color: yellow;
+}
+#orange{
+    background-color: orange;
+}
+#purple{
+    background-color: purple;
+    color: white;
+}
+#pink{
+    background-color: pink;
+}
+#grey{
+    background-color: grey;
+}
+#black{
+    background-color: black;
+    color: white;
+}
